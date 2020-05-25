@@ -216,3 +216,9 @@ header .navbar ul li a.active::before{
     background-color:black;
     color: whitesmoke;
 }
+
+Media Queries
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}

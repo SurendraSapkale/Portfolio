@@ -197,7 +197,7 @@ header .navbar ul li a.active::before{
 }
 /* 
 
-/* Media Queries */
+Media Queries
 /* For mobile phones: */
 [class*="col-"] {
   width: 100%;
