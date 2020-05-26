@@ -93,7 +93,7 @@ Technologies and tolls used to create this portfolio are:
 - CSS (styling, animations, responsiveness)
 - Flexbox
 - Google Fonts
-- Icons imported from font awesome
+- Icons imported from font awesome.
 
 
 
