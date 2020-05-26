@@ -1,50 +1,73 @@
 # Alex Little Portfolio
 
-#### GitHub Repo Link:  [Link](https://github.com/SurendraSapkale/Portfolio)
+#### 
 
-#### Deployable Site: [Link](https://surendrasapkale.netlify.app/)
+#### Portfolio Site: [Link](https://surendrasapkale.netlify.app/)
+
+#### GitHub Repo Link:  [Link](https://github.com/SurendraSapkale/Portfolio)
 
 ## Purpose
 
-The purpose of this website is to act as a digital portfolio to showcase my work, so that potential employers have all relevant information in one easy-to-access space.
+The purpose of this website is to act as a digital portfolio to showcase my work, technical skills & expertise, so that potential employers, clients and recruiters have all relevant information easily accessible as and when required.
 
-## features and functionality
+## Features and Functionality
 
-The design is responsive and accesablble. It features a fixed navigation bar, css animations and a contact form.
+This website mainly gives the complete information about me.
+
+Below are the features:
+
+- Complete professional look and fill of my website design
+- Fixed navigation bar
+- To view and download the resume
+- Showcare my technical skills
+- To see my completed projects details  
+- Various socials links like LinkedIn, twitter, github, to see my my activities. 
+- Look into my blogs, that how I express myself.
+- Option to send email
+- Website can be access from various devices.
+
+
 
 ## Sitemap
 
-- I created my portfolio so it would be easy to use. The navigation bar takes you everywhere you need to go on the website.
-- There is also various links to my twitter, linkedin and github on the index.html and contact.html page
+![image-20200526141851807](./docs/Portfolio-Flow.png)
 
-## Data Flow Diagram: 
+## Wireframe & Design
 
-## Wirefram & Design
+#### Mobile wireframe:
 
-#### A link to mobile can be found: 
+![image-20200526144126645](./docs/wireframes/mobile/mobile_wireframe.png)
 
-#### A link to desktop can be found: 
 
-## Screenshots
 
-#### A link to screenshots can be found:
+#### Tablet wireframe:
+
+![image-20200526150557179](./docs/wireframes/tablet/tablet_wireframe.png)
+
+#### Desktop wireframe:
+
+![image-20200526144301288](./docs/wireframes/Desktop/desktop_wireframe.png)
+
+
+
+## Website Screenshots
+
+#### 
 
 ## Target audience
 
-My portfolio was created to show any future employee, clients and potential recruiter.
+My portfolio was created to show any future employee, clients and potential recruiter. They can easily access my personal and professional information by navigating this website.
 
 ## Tech Stack
 
-To create this portfolio I used:
+Technologies and tolls used to create this portfolio are:
 
-- HTML5 (Structure)
-- CSS3 (styling, animations, responsiveness)
+- Balsamiq Wireframes
+- HTML
+- CSS (styling, animations, responsiveness)
+- Flexbox
 - Google Fonts
-
 - Icons imported from font awesome
-- 
-
-
 
 
 

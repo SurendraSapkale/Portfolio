@@ -25,7 +25,7 @@ body{
   flex-wrap: wrap;
 }
 
-/* Header */
+/* Header Start */
 header{
   position: absolute;
   left: 0px;
@@ -106,6 +106,8 @@ header .navbar ul li a.active::before{
   width: 100%;
   left: 0;
 }
+
+/* Header Finish */
 
 /* About-Me */
 .about-me{
@@ -216,6 +218,8 @@ header .navbar ul li a.active::before{
   color: #216ed3;
 }  
 
+/* End About-Me */
+
 /* Skills section*/
 .skills{
   padding: 10px 10px;
@@ -276,7 +280,9 @@ header .navbar ul li a.active::before{
   letter-spacing: 2px;
  } 
 
- /* Copyright Section */
+ /* End Skill Section */
+
+ /* Footer Start */
 .copyright{
   background-color: #e7e7f1;
   border-top: 1px solid #1d1d27;
@@ -290,3 +296,5 @@ header .navbar ul li a.active::before{
   font-weight: 400;
   font-size: 15px;
 }
+
+/* Footer End */

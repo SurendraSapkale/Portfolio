@@ -25,7 +25,7 @@ body{
   flex-wrap: wrap;
 }
 
-/* Header */
+/* Header Start */
 header{
   position: absolute;
   left: 0px;
@@ -107,7 +107,9 @@ header .navbar ul li a.active::before{
   left: 0;
 }
 
-/* Home */
+/* Header Finish */
+
+/* Home Page Start*/
 .home{
   min-height: 100vh;
   background-image: url(../img/comp.jpg);
@@ -181,7 +183,9 @@ header .navbar ul li a.active::before{
   color: rgb(19, 18, 18);
 }
 
-/* Copyright Section */
+/* Home Page Finish */
+
+/* Footer Section*/
 .copyright{
   background-color: #e7e7f1;
   border-top: 1px solid #1d1d27;
@@ -195,7 +199,8 @@ header .navbar ul li a.active::before{
   font-weight: 400;
   font-size: 15px;
 }
-/* 
+/* Footer Section end */
+
 
 Media Queries
 /* For mobile phones: */

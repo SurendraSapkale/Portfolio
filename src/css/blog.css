@@ -20,7 +20,7 @@ body{
   flex-wrap: wrap;
 }
 
-/* Header */
+/* Header Start*/
 header{
   position: absolute;
   left: 0px;
@@ -99,7 +99,9 @@ header .navbar ul li a.active::before{
   left: 0;
 }
 
-/* Blog Section */
+/* Header Finish */
+
+/* Blog Section Start*/
 .blogs{
    padding: 100px 15px;
    background-color: #ffffff;
@@ -199,3 +201,5 @@ header .navbar ul li a.active::before{
     color: royalblue;
     border-color: royalblue;
 }
+
+/* Blog Section Finish */
