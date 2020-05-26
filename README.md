@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+ 
+
+>>>>>>> 700b475288e5026844f98106fda20dfb22b09c2e
 #### Portfolio Site: [Link](https://surendrasapkale.netlify.app/)
 
 #### GitHub Repo Link:  [Link](https://github.com/SurendraSapkale/Portfolio)
@@ -93,7 +98,7 @@ Technologies and tolls used to create this portfolio are:
 - CSS (styling, animations, responsiveness)
 - Flexbox
 - Google Fonts
-- Icons imported from font awesome
+- Icons imported from font awesome.
 
 
 
