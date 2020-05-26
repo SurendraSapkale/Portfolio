@@ -1,7 +1,3 @@
-# Alex Little Portfolio
-
-#### 
-
 #### Portfolio Site: [Link](https://surendrasapkale.netlify.app/)
 
 #### GitHub Repo Link:  [Link](https://github.com/SurendraSapkale/Portfolio)
@@ -16,10 +12,10 @@ This website mainly gives the complete information about me.
 
 Below are the features:
 
-- Complete professional look and fill of my website design
+- Complete professional look and feel of my website design
 - Fixed navigation bar
 - To view and download the resume
-- Showcare my technical skills
+- Showcase my technical skills
 - To see my completed projects details  
 - Various socials links like LinkedIn, twitter, github, to see my my activities. 
 - Look into my blogs, that how I express myself.
@@ -52,7 +48,37 @@ Below are the features:
 
 ## Website Screenshots
 
-#### 
+#### **Desktop View**
+
+![image-20200526191546874](/docs/Portfolio/desktop/home.png)
+
+![image-20200526191601947](/docs/Portfolio/desktop/about-me.png)
+
+![image-20200526191610692](/docs/Portfolio/desktop/blog.png)
+
+![image-20200526191618994](/docs/Portfolio/desktop/contact.png)
+
+
+
+#### Mobile Screenshot
+
+![image-20200526191710644](/docs/Portfolio/mobile/home.png)
+
+![image-20200526191731684](/docs/Portfolio/mobile/about-me.png)
+
+![image-20200526191752256](/docs/Portfolio/mobile/blog.png)
+
+
+
+#### Tablet Screenshot
+
+![image-20200526191829727](/docs/Portfolio/tablet/home.png)
+
+![image-20200526191840815](/docs/Portfolio/tablet/about-me.png)
+
+![image-20200526191850411](/docs/Portfolio/tablet/blog.png)
+
+![image-20200526192047962](/docs/Portfolio/tablet/contact-me.png)
 
 ## Target audience
 

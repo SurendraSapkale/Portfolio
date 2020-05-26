@@ -20,7 +20,7 @@ body{
   flex-wrap: wrap;
 }
 
-/* Header */
+/* Header Start*/
 header{
   position: absolute;
   left: 0px;
@@ -98,6 +98,8 @@ header .navbar ul li a.active::before{
   width: 100%;
   left: 0;
 }
+
+/* Header Finish */
 
 /* Contact-Me Section */
 .contact-me{
@@ -216,6 +218,8 @@ header .navbar ul li a.active::before{
     background-color:black;
     color: whitesmoke;
 }
+
+/* End Contact-Me Section */
 
 Media Queries
 /* For mobile phones: */
